@@ -1,0 +1,6 @@
+E:\Calismalar\MY-TFS\Log\Log\bin\Debug\Log.dll
+E:\Calismalar\MY-TFS\Log\Log\bin\Debug\Log.pdb
+E:\Calismalar\MY-TFS\Log\Log\obj\Debug\Log.csprojResolveAssemblyReference.cache
+E:\Calismalar\MY-TFS\Log\Log\obj\Debug\Log.csproj.CoreCompileInputs.cache
+E:\Calismalar\MY-TFS\Log\Log\obj\Debug\Log.dll
+E:\Calismalar\MY-TFS\Log\Log\obj\Debug\Log.pdb

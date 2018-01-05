@@ -1,0 +1,6 @@
+E:\Calismalar\MY-TFS\Log\IocContainer\bin\Debug\IocContainer.dll
+E:\Calismalar\MY-TFS\Log\IocContainer\bin\Debug\IocContainer.pdb
+E:\Calismalar\MY-TFS\Log\IocContainer\obj\Debug\IocContainer.csprojResolveAssemblyReference.cache
+E:\Calismalar\MY-TFS\Log\IocContainer\obj\Debug\IocContainer.csproj.CoreCompileInputs.cache
+E:\Calismalar\MY-TFS\Log\IocContainer\obj\Debug\IocContainer.dll
+E:\Calismalar\MY-TFS\Log\IocContainer\obj\Debug\IocContainer.pdb
